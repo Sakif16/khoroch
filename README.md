@@ -87,3 +87,6 @@ git push origin feature-name
 - Export expenses as CSV or PDF
 - Charts and visual spending trends over multiple months
 - Dark mode support
+
+### Fun Fact
+This app was originally founded because my girlfriend thought I was spending too much money on Domino's
